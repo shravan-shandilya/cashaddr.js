@@ -1,0 +1,20 @@
+{
+  "name": "cashaddr",
+  "version": "0.0.1",
+  "description": "Node binding to cashaddr for Bitcoin Cash",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "nan": "^2.0.0"
+  },
+  "keywords": [
+    "bch",
+    "bech32",
+    "cashaddr"
+  ],
+  "author": "Shravan Shandilya",
+  "license": "MIT"
+}
