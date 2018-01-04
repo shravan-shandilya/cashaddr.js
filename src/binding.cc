@@ -1,5 +1,5 @@
 #include <nan.h>
-#include "cashaddr.h"
+#include "../inc/cashaddr.h"
 
 using v8::String;
 using v8::Object;

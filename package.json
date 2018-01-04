@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "bindings": "~1.2.1",
-    "nan": "^2.0.0"
+    "bitcoinjs-lib": "^3.3.2",
+    "nan": "^2.0.0",
+    "node-gyp": "^3.6.2"
   },
   "keywords": [
     "bch",

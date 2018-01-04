@@ -1,8 +1,8 @@
 {
   "targets": [
     {
-      "target_name": "cashaddr",
-      "sources": [ "binding.cc","cashaddr.cc" ],
+      "target_name": "binding",
+      "sources": [ "src/binding.cc","src/cashaddr.cc" ],
       "include_dirs": [
         "<!(node -e \"require('nan')\")"
       ]
